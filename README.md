@@ -15,3 +15,5 @@ In this project, I focused on the following concepts:
 2. **Handling Image Rotation:** I implemented the image rotation functionality, allowing the image to rotate by 90 degrees with each click.
 
 ## Demo
+
+<video src="https://github.com/eliottoblinger/swift-ui-rotate-image/assets/73584972/225569fa-0e10-4cc6-ab77-828760025010"/>
